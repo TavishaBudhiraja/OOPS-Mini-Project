@@ -119,5 +119,3 @@ A UML workflow diagram for this process is included in the `/diagrams` directory
 - R. Lafore — *Object-Oriented Programming in C++*  
 - GeeksforGeeks — C++ OOP Concepts  
 
-You may freely use or modify this project for learning or academic submissions.
-
